@@ -61,7 +61,7 @@ const Weather = () => {
   }  
 
   useEffect(()=>{
-    search("Mealhada");
+    search("Portugal");
   }, [])
 
   return (
